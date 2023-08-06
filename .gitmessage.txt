@@ -1,0 +1,13 @@
+Title: Summary, imperative, start upper case, dont end with a period 
+
+AAP-XXX JIRA_TITLE 
+DESCRIPTION
+
+Changes:
+- ⭐ FEATURE
+- ⚒️ FIX
+- 🔍 REVIEW
+- 🚀 PERFORMANCE
+- 📑 DOCUMENTATION
+
+# git config --local commit.template .gitmessage.txt

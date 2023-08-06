@@ -1,0 +1,10 @@
+POST http://localhost:3000/
+Content-Type: application/json
+
+{
+    "subject": "Test subject",
+    "name": "User Name",
+    "email": "test@saportif.com",
+    "message": "Test message",
+    "sendTo": "dogukan@saportif.com"
+}

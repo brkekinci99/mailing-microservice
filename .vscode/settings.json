@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/e7558c7e-0325-4b43-8435-40b82cc23d6f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/saportif-mailing-service",
+  "appService.deploySubpath": "."
+}
